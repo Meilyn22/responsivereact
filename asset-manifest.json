@@ -1,11 +1,11 @@
 {
-  "main.js": "/static/js/main.0f4ed15d.chunk.js",
-  "main.js.map": "/static/js/main.0f4ed15d.chunk.js.map",
-  "static/js/1.a8952a02.chunk.js": "/static/js/1.a8952a02.chunk.js",
-  "static/js/1.a8952a02.chunk.js.map": "/static/js/1.a8952a02.chunk.js.map",
-  "runtime~main.js": "/static/js/runtime~main.229c360f.js",
-  "runtime~main.js.map": "/static/js/runtime~main.229c360f.js.map",
-  "index.html": "/index.html",
-  "precache-manifest.5a06480996f0007fb41f8e0dca1565c7.js": "/precache-manifest.5a06480996f0007fb41f8e0dca1565c7.js",
-  "service-worker.js": "/service-worker.js"
+  "main.js": "/responsivereact/static/js/main.b1e0289b.chunk.js",
+  "main.js.map": "/responsivereact/static/js/main.b1e0289b.chunk.js.map",
+  "static/js/1.a8952a02.chunk.js": "/responsivereact/static/js/1.a8952a02.chunk.js",
+  "static/js/1.a8952a02.chunk.js.map": "/responsivereact/static/js/1.a8952a02.chunk.js.map",
+  "runtime~main.js": "/responsivereact/static/js/runtime~main.67efe599.js",
+  "runtime~main.js.map": "/responsivereact/static/js/runtime~main.67efe599.js.map",
+  "index.html": "/responsivereact/index.html",
+  "precache-manifest.a812a8fa8bd6be6b63b92d7a1f336eff.js": "/responsivereact/precache-manifest.a812a8fa8bd6be6b63b92d7a1f336eff.js",
+  "service-worker.js": "/responsivereact/service-worker.js"
 }
